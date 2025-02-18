@@ -11,3 +11,9 @@
 ## 06. 문자열 메소드(String methods)
 
 ## 07. 배열(Array)
+
+## 08. 배열(Array)2
+
+## 09. 구조 분해 할당(Destructuring assignment)
+
+## 10. 나머지 매개변수(Rest parameters), 전개 구문(Spread syntax)
