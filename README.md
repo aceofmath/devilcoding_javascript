@@ -17,3 +17,9 @@
 ## 09. 구조 분해 할당(Destructuring assignment)
 
 ## 10. 나머지 매개변수(Rest parameters), 전개 구문(Spread syntax)
+
+## 11. 클로저(Closer)
+
+## 12. setTimeout / setInterval
+
+## 13. call, apply, bind
